@@ -1,0 +1,15 @@
+﻿# Motor de procesamiento principal
+pyspark==2.4.8
+
+
+# Manejo de entornos (opcional pero recomendado para ejecución local)
+findspark==2.0.1
+
+
+# Dependencias para visualización o manipulación de datos auxiliar
+pandas>=1.0.0
+numpy>=1.18.0
+
+
+# Entorno de ejecución
+jupyter>=1.0.0
